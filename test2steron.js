@@ -1,0 +1,1 @@
+console.log('Snus, ris, paradis. 07 ble att i Paris')
